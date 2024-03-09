@@ -28,8 +28,7 @@ To get started with the Shell Program:
 $ gcc shell.c -o shell
 $ ./shell
 ```
-## Demo
 
-[](https://example.com/your-video.mp4)
+
 
 Thank you for using the Shell Program in C! Happy coding! 🚀
