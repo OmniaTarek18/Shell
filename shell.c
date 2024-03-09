@@ -170,8 +170,6 @@ char *evaluate_expression(char *line)
     int indx = strcspn(line, "$");
     while (indx != strlen(line))
     {
-        printf("%d\n", indx);
-
         if (indx != 0)
             strncpy(right_half, line, indx);
         else
